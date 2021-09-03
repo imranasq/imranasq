@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with python, django and javascript
 
 
-[<img align="left" alt="Imran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Imran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Imran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left" alt="Imran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 <a href="https://github.com/imraan024">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraan024&theme=dark&hide_langs_below=1" />
