@@ -1,16 +1,15 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+<h1 align="center">Hi 👋, I'm Md. Al-Imran</h1>
+<h3 align="center">A passionate Python Django developer. </h3>
 
-<!--
-**imraan024/imraan024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning django and javascript
+- 🤔 I’m looking for help with python, django and javascript
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/imraan024">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraan024&theme=dark&hide_langs_below=1" />
+</a>
+
+![Md. Al-Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imraan024&show_icons=true&theme=radical)
+
+
