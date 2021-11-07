@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-<h1 align="center">Hi 👋, I'm Md. Al-Imran</h1>
+<h1 align="center">Hi 👋, I'm Md Al mran</h1>
 <h3 align="center">A passionate Python Django developer. </h3>
 
 - 🌱 I’m currently learning django and javascript
-- 🤔 I’m looking for help with python, django and javascript
+- 🤔 I’m looking for help with python, django and javascript specially Vue.js Framework
 
 
 [<img align="left" alt="Imran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/imrn0)
