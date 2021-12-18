@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-<h1 align="center">Hi 👋, I'm Md Al mran</h1>
+<h1 align="center">Hi 👋, I'm Md Al Imran</h1>
 <h3 align="center">A passionate Python Django developer. </h3>
 
 - 🌱 I’m currently learning Django and JavaScript.
