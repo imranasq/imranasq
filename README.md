@@ -10,7 +10,7 @@
 [<img align="left" alt="Imran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/imran02)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihasidul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imraan024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Md. Al-Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imraan024&show_icons=true&theme=radical)
 
