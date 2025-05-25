@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
-<h1 align="center">Hi 👋, I'm Md Al Imran</h1>
+<h1 align="center">Hi 👋, I'm Al Imran</h1>
 <h3 align="center">A passionate Python Django Developer</h3>
 
 ---
 
-- 🌱 I’m currently learning **Django** and **JavaScript**  
-- 🤔 I’m looking for help with **Python**, **Django**, and **JavaScript** (especially **Vue.js**)
+- 🌱 I’m currently working with **Python**, **Django**, **Django Rest Framework** and **Go**  
+- 🤔 I’m looking for help with **Python**, **Django**, **JavaScript** and **Go**
 
 ---
 
@@ -16,8 +16,8 @@
   <a href="https://twitter.com/imrn0" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="imrn0" height="30" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/imran02" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="imran02" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/alimraan" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="alimraan" height="30" width="30" />
   </a>
 </p>
 
